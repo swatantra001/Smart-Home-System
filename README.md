@@ -252,15 +252,15 @@ FUTURE IMPROVEMENTS
 
 **GROUP NUMBER : 3**
 
-I. Saurabh Kumar Singh (20233256)
-II. Shubranshu Mishra (20233272)
-III. Saurabh Kumar (20233255)
-IV. Sourabh Kumar (20233353)
-V. Shivanshu Pathak (20233267)
-VI. Suresh Choudhary (20233281)
-VII. Sumit Sharma (20233279)
-VIII. Surya Pratap Singh (20233283)
-IX. Swatantra Maurya (20233285)
-X. Vishwajeet Gupta (20233316)
-XI. Viswa Ravindren (20233584) 
+1.	Saurabh Kumar Singh (20233256)
+2.	Shubranshu Mishra (20233272) 
+3.	Saurabh Kumar (20233255) 
+4.	Sourabh Kumar (20233353)
+5.	Shivanshu Pathak (20233267)
+6.	Suresh Choudhary (20233281)
+7.	Sumit Sharma (20233279)
+8.	Surya Pratap Singh (20233283)
+9.	Swatantra Maurya (20233285)
+10.	Vishwajeet Gupta (20233316)
+11.	Viswa Ravindren (20233584)
 
